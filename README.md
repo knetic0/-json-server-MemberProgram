@@ -1,6 +1,10 @@
 # *Create JSON Database Tool With GoLang*
 
 ```bash
+        npm install -g json-server
+```
+
+```bash
         git clone https://github.com/knetic0/-json-server-MemberProgram.git
 ```
 
